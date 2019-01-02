@@ -1,6 +1,7 @@
 # HW3
 
 Ganache產生帳戶:
+部屬合約:
 
 一、鑄Nccu coin 在帳戶1
 二、存eth在帳戶1

@@ -1,4 +1,4 @@
-# HW3
+# Ethereum-HW3
 
 Ganache產生帳戶:<br>
 ![Image](https://github.com/kaysu97/HW3/blob/master/HW3/screenshot/%E5%B8%B3%E6%88%B6.PNG)<br>
